@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Puslapis</title>
-    <link>https://dominykas2.github.io/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Puslapis</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 May 2024 20:42:43 +0300</lastBuildDate>
-    <atom:link href="https://dominykas2.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 May 2024 20:55:16 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Antraspuslapis</title>
+      <link>http://localhost:1313/posts/antraspuslapis/</link>
+      <pubDate>Mon, 13 May 2024 20:55:16 +0300</pubDate>
+      <guid>http://localhost:1313/posts/antraspuslapis/</guid>
+      <description>cout&amp;laquo;&amp;ldquo;labas rytas&amp;rdquo;; if(i&amp;gt;=2){ m=2; } return 0;</description>
+    </item>
     <item>
       <title>First page</title>
-      <link>https://dominykas2.github.io/posts/puslapis/</link>
+      <link>http://localhost:1313/posts/puslapis/</link>
       <pubDate>Mon, 13 May 2024 20:42:43 +0300</pubDate>
-      <guid>https://dominykas2.github.io/posts/puslapis/</guid>
+      <guid>http://localhost:1313/posts/puslapis/</guid>
       <description>Lapai yra zali man rodos.</description>
     </item>
   </channel>
